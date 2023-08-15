@@ -1,6 +1,7 @@
 name: Our cool project
 
 on:
+  - push
   - pull_request
 
 jobs:
